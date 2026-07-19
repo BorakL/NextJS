@@ -4,3 +4,7 @@ zadatak1
 - napravi folder (page) proizvodi. Na početnoj strani izlistati proizvode iz dummy-backend unutar linkova za navigaciju
 - napravi dinamičnu stranicu [id].tsx u kojoj se ispisuje: Proizvod id (id proizvoda iz url-a)
 - pregeneriši dinamičke stranice za proizvode (getStaticPaths).
+
+
+zadatak2
+- kopiraj zadatak1 folder i preimenuj ga u zadatak2. Unutar zadatak 2 treba da središ kod tako što ćeš naraviti funkciju getData() koja će da returnuje podatke sa dummy-backend.json
